@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@500&display=swap');
+
+html{
+    text-align: center;
+    background-image: url('images\bg-header-desktop (2).png');
+}
+
+.title{ 
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: hsl(212, 9%, 28%);
+    text-align:center;
+} 
+
+.descripcion{
+    font-family: 'Bai Jamjuree', sans-serif;
+    color:hsl(201, 11%, 66%);
+    
+          
+}
+
+.title1{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size:20px;
+    color: hsl(212, 9%, 28%);
+    text-align:left;
+}
+.boton1{
+
+    font-family:'Bai Jamjuree', sans-serif;
+    border-color:hsl(171, 66%, 44%);
+    border-radius: 15px;
+    background-color:hsl(171, 66%, 44%);
+    color:white;
+    border-style:groove;
+    padding:8px;
+    width:160px;
+
+}
+
+.boton2{
+    font-family:'Bai Jamjuree', sans-serif;
+    border-color:hsl(233, 100%, 69%); 
+    color:white;
+    border-radius: 15px;
+    background-color:hsl(233, 100%, 69%);
+    border-style:groove;
+    padding:8px;
+    width:160px;
+
+}
+
+.boton3{
+
+    font-family:'Bai Jamjuree', sans-serif;
+    border-color:hsl(171, 66%, 44%);
+    border-radius: 15px;
+    background-color:hsl(171, 66%, 44%);
+    color:white;
+    border-style:groove;
+    padding:8px;
+    width:160px;
+}
+
+.boton4{
+    font-family:'Bai Jamjuree', sans-serif;
+    border-color:hsl(233, 100%, 69%); 
+    color: white;
+    border-radius: 15px;
+    background-color:hsl(233, 100%, 69%);
+    border-style:groove;
+    padding:8px;
+    width:160px;
+}
+
+
+.imagen1 {
+    height:100px;
+    width:100px;
+    align-content: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    height:100px;
+
+    
+}
+
+.imagen4{
+
+    height:50px;
+    width:50px;
+
+}
+
+.contenedor2{
+width:1440px;
+
+}
+
+.contenedor3 {
+width:1440px;
+
+}
+
+.contenedor4{
+    width:1440px;
+    display:flex;
+    text-align:left;
+  
+}
+
+
+.contenedor5{
+    width:1440px;
+    padding-left: 90px;
+  
+}
+
+.contenedor6{
+    width:1440px;
+}
+
+.contenedor7{
+    width:1440px;
+    display:flex;
+    
+    
+}
+
+.blacklist{
+    padding-right:100px;
+    padding-left:70px;
+    
+    
+}
+
+.snippets{
+    padding-right:100px;
+}
+.contenedor8{
+    width:1440px;
+    display:flex;
+    padding-left:120px;
+}
+
+.google{
+    padding-right:100px;
+
+   
+}
+
+.imb {
+
+padding-right:100px;
+
+}
+
+.microsoft{
+    padding-right: 100px;
+}
+
+.hp{
+    padding-right:100px;
+}
+
+.contenedor9{
+    width:1440px;
+}
+
+.contenedor10{
+    width:1440px;
+}
+
+.contenedor11{
+    width:1440px;
+    display:flex;
+   
+}
+
+.contenedor12{
+    width:1440px;
+}
+
+.imagen11{
+    height:50px;
+    width:50px;
+    padding-right: 100px;
+    padding-left:100px;
+}
+
+.bloque1{
+    font-size:8px;
+    padding-right: 80px;
+    color: black;
+}
+
+.bloque2{
+    font-size:8px;
+    padding-right: 80px;
+}
+
+.bloque3{
+    font-size:8px;
+    padding-right: 400px;
+}
+
+.facebook{
+    height: 20px;
+    width:20px;
+    padding-right: 20px;
+    
+}
+
+
+.instagram{
+    height: 20px;
+    width:20px;
+    
+}
+
+
+.twitter{
+    height: 20px;
+    width:20px;
+    padding-right:20px;
+    
+}
+
+.redes{
+    display: flex;
+    padding-top: 25px;
+   
+}
+.pie{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
